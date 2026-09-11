@@ -75,9 +75,11 @@ If you enable CAP-based web session protection via OIDC SSO, you can rely on you
 
 ## References
 
-- Microsoft: Conditional Access in Microsoft Entra ID (see Microsoft docs for configuring named locations and app-targeted policies).
-- GitHub Docs:
-  - Configuring OIDC SSO for Enterprise Managed Users
+- Microsoft: Conditional Access in Microsoft Entra ID (see Microsoft docs for configuring named locations and app-targeted policies).  
+- Conditional Access (network signals): https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-assignment-network  
+- Conditional Access overview: https://learn.microsoft.com/en-us/entra/identity/conditional-access/  
+- GitHub Docs:  
+  - Configuring OIDC SSO for Enterprise Managed Users  
   - About IP allow lists for your enterprise
 
 ## Admin checklist (quick)
